@@ -1,0 +1,7 @@
+Streamlit
+Matplotlib
+Seaborn
+Urlextract
+wordcloud
+emoji
+pandas
